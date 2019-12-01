@@ -1,0 +1,10 @@
+servers:
+  dev01:
+    remoteip: 192.168.0.103
+    status : NEW
+  dev02:
+    remoteip: 192.168.0.103
+    status : NEW
+  #dev03:
+    #remoteip: 192.34.56.90
+    #status : NEW

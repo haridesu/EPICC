@@ -1,0 +1,7 @@
+env_const:
+  remoteid: edureka
+  remoterootdir: /home/edureka/
+  remotedir: kafka/
+  filename: kafka_2.12-2.3.1.tgz
+  key: /Users/apple/.ssh/id_rsa
+  giturl: https://github.com/haridesu/EPICC/raw/master/confluent/kafka_2.12-2.3.1.tgz
