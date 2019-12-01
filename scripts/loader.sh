@@ -2,7 +2,7 @@
 # include deploy_artifact function
 . deploy_artifact.sh
 
-env="dev"
+env=$1
 #check snap is available in centos . if not install 
 #check yq is available in centos . if not install 
 #for serverip in $(yq r ../config/server_config2.yaml servers.dev*.remoteip | tr -d \-)
