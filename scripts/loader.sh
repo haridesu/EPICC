@@ -6,7 +6,8 @@ env="dev"
 #check snap is available in centos . if not install 
 #check yq is available in centos . if not install 
 #for serverip in $(yq r ../config/server_config2.yaml servers.dev*.remoteip | tr -d \-)
-
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install yq
 declare i=0
 for serverip in $(yq r ../config/dev/server_config.yaml servers[*].remoteip | tr -d \-)
 do

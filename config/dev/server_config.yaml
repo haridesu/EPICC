@@ -1,7 +1,7 @@
 servers:
 - remoteip: 192.168.0.105
-  status: ALL
+  status: NEW
 - remoteip: 192.168.0.103
   status: ABC
 - remoteip: 192.168.0.103
-  status: DONE
+  status: NEW
