@@ -1,0 +1,2 @@
+# EPICC
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ace44d7655ab4a08b35c0de0125c6b41)](https://app.codacy.com/manual/hari.sachkand/EPICC?utm_source=github.com&utm_medium=referral&utm_content=haridesu/EPICC&utm_campaign=Badge_Grade_Dashboard)
